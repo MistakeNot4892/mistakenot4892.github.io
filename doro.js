@@ -149,7 +149,7 @@ requestAnimationFrame(function frame() {
     return
   ctxAlchemy.clearRect(0, 0, canvasWidth, canvasHeight)
   drawAlchemyCircle(canvasCenterX, canvasCenterY, radius + 12, `#323232`, 8)
-  drawAlchemyCircle(canvasCenterX, canvasCenterY, radius - 2, `#646464`, 4)
+  drawAlchemyCircle(canvasCenterX, canvasCenterY, radius - 2, `#161616`, 4)
   const sparkIndex = floor(random() * spriteCount)
   for (let i = 0; i < spriteCount; ++i) {
     if ((rotation += radiansPerSprite) > PI)
