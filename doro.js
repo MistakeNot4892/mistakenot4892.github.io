@@ -74,6 +74,7 @@ body {
 <img id="drbPortrait" src="https://mistakenot4892.github.io/dorobouveryextremelygood1000hourportraitbest.png">
 <audio id="drbTheme" controls loop src="https://mistakenot4892.github.io/home_piano.ogg"></audio>
 <audio id="drbTheme2" controls loop src="https://mistakenot4892.github.io/home_drop.ogg"></audio>
+<div id="drbCredit"><a href="https://music.youtube.com/watch?v=tXAB9_PZzI8">I AM YOUR BEAST OST - HOME / by rj lake</a></div>
 </body>
 `
 
