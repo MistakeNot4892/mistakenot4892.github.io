@@ -48,6 +48,16 @@ body {
     drop-shadow(0 0 8px black)
     drop-shadow(0 0 12px dodgerblue);
 }
+#drbCredit{
+  color: #323232;
+  position: absolute;
+  bottom: 1.5rem;
+  top: calc(100vh - 3rem);
+  right: 0;
+  left: 0;
+  z-index: 1000;
+  text-align: right;
+}
 @keyframes shake {
   0% { transform: translate(1px, 1px) rotate(0deg); }
   25% { transform: translate(-3px, 0px) rotate(1deg); }
